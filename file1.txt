@@ -1,1 +1,4 @@
 This is demo of SE class about gitbash
+
+
+This is 2nd edited version of the notepad
